@@ -2,6 +2,8 @@
 
 [English](#english) | [Русский](#русский) | [中文](#中文)
 
+![Screenshot of a checker](https://github.com/Markos98/fortnite-checker/blob/main/SCR-20251003-opni.png)
+
 ---
 
 ## Русский
